@@ -24,6 +24,9 @@
     .right{
     text-align:right;
    }
+   .left{
+    text-align:left;
+   }
 
 </style>
 
